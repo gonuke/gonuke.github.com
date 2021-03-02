@@ -1,0 +1,174 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>Research Tools</title>
+</head>
+
+<body>
+
+<center>
+
+<table width=750 cellpadding=5 cellspacing=0 border=0>
+ <tr valign=top>
+   <td>
+
+   <center><h1>Research Tools</h1></center>
+
+
+   <hr>
+   <!--#include virtual="bcHere.shtml" -->
+   <hr><p>
+
+   This is a partial list of tools and utilities that are used in the
+   development of my research projects.  Some are proprietary licensed
+   codes and others are standard public domain tools.  There is some
+   attempt to include links to relevant documentation and information
+   for these tools.
+
+   <center>
+   <a href=#code>Code Development Tools</a> &#183;
+   <a href=#util>Utilities &amp; Generic Tools</a> <p>
+   <a href=#libs>Numerical and Supporting Libraries</a> &#183;
+   <a href=#nuke>Nuclear Codes</a>
+   </center>
+
+   <a name=code><h3>Code Development Tools</h3></a>
+   <dl>
+     <dt> Compilers
+     <dd> <li> GNU compilers <a href=http://gcc.gnu.org/onlinedocs/>Online Documentation</a> [gcc/g++/g77] (note version)
+          <li> Portland Group compilers <a href=http://www.pgroup.com/doc/index.htm>Online Documentation</a> [C/C++/F77/F90]
+	  <li> Intel compilers
+   </dl>
+   <p>
+
+   <dl>
+     <dt> Debuggers
+     <dd> <li> gdb <a href=http://sources.redhat.com/gdb/>WWW</a>
+          <li> DDD <a href=http://www.gnu.org/software/ddd/>WWW</a>
+   </dl>
+   <p>
+
+   <dl>
+     <dt> Source Revision Control
+     <dd> <li> CVS <a href=http://www.loria.fr/~molli/cvs-index.html>Meta-WWW</A> &#183; <a href=http://www.loria.fr/~molli/cvs/doc/cvs_toc.html>Manual</a>
+   </dl>
+   <p>
+
+   <dl>
+     <dt> Source Documentation
+     <dd> <li> Doxygen <a href=ttp://www.stack.nl/~dimitri/doxygen/>WWW</a> &#183; <a href=http://www.stack.nl/~dimitri/doxygen/manual.html>Manual</a>
+   </dl>
+   <p>
+
+   <dl>
+     <dt> Project build/configuration management
+     <dd> <li> Make
+          <li> autoconf <a href=http://www.gnu.org/software/autoconf/autoconf.html>WWW</a> 
+	       &#183; <a href=http://www.gnu.org/software/autoconf/manual/autoconf-2.57/html_node/autoconf_toc.html>Manual</a> 
+	       &#183; <a href=http://sources.redhat.com/autobook/>Book</a> 
+	       &#183; <a href=http://seul.org/docs/autotut/>Tutorial #1</a>
+	       &#183; <a href=http://www.delorie.com/gnu/docs/autoconf/autoconf_toc.html>Tutorial #2</a>
+	  <li> automake <a href=http://www.gnu.org/software/automake/automake.html>WWW</a> &#183; <a href=http://www.gnu.org/software/automake/manual/html_node/index.html>Manual</a>
+	  <li> libtool
+   </dl>
+
+   <a name=libs><h3>Numerical and Supporting Libraries</h3></a>
+   <dl>
+     <dt> Numerical Computation
+     <dd> <li> PETSc <a href=http://www-unix.mcs.anl.gov/petsc/petsc-2/>WWW</a>
+   </dl> 
+
+   <dl>
+     <dt> File Formats
+     <dd> <li> HDF5 
+               <a href=http://hdf.ncsa.uiuc.edu/HDF5>WWW</a> &#183; 
+	       <a href=http://hdf.ncsa.uiuc.edu/HDF5/doc/RM_H5Front.html>Manual</a> &#183;
+	       <a href=http://hdf.ncsa.uiuc.edu/HDF5/doc/Tutor/>Tutorial</a>
+   </dl>
+   <p>
+
+   <dl>
+     <dt> Parallel Programming
+     <dd> <li> MPICH (MPI)
+          <li> PVM
+   </dl>
+   <p>
+
+   <dl>
+     <dt> Pseudo-Random Number Generators
+     <dd> <li> SPRNG 2.0 <a href=http://sprng.cs.fsu.edu>WWW</a>
+   </dl>
+   <p>
+
+   <a name=nuke><h3>Nuclear Analysis Codes</h3></a>
+   <dl>
+     <dt> Nuclear Data
+     <dd> <li> NJOY <A HREF=cae-auth/NJOY.pdf>Manual [PDF, CAE only, 50 MB]</a>
+          <li> TRANSX
+	  <li> ENDF-6 <A HREF=ENDF102.PDF>Format Description [PDF]</a>
+   </dl>
+   <p>
+
+   <dl>
+     <dt> Neutron transport
+     <dd> <li> MCNP4c3 <a href=cae-auth/MCNP4C2.pdf>Manual [PDF, CAE Only]</a> <a href=http://www.medphysics.wisc.edu/~bohm/genericmode.html>Emacs Mode</a>
+          <li> MCNPX 2.x
+	  <li> DANTSYS
+   </dl>
+   <p>
+
+   <dl>
+     <dt> Activation/Inventory
+     <dd> <li> ALARA 2.5.x <a href=../ALARA>WWW</a> &#183; <a href=../ALARA/users.guide.html>Users Guide</a>
+   </dl>
+   <p>
+
+   <dl>
+     <dt> Reactor Physics (Lattice codes and core design)
+     <dd> <li> WIMS8 (collaboration with Argonne National Lab)
+          <li> HELIOS <A HREF=cae-auth/HeliosMAN.pdf>Manual [PDF, CAE Only]</a>
+	  <li> PARCS
+   </dl>
+   <p>
+
+   <dl>
+     <dt> Reactor Analysis
+     <dd> <li> RELAP
+   </dl>
+
+
+   <a name=util><h3>Utilties &amp; Generic Tools</h3></a>
+   <dl>
+     <dt> Job Submission &amp; Control
+     <dd> <li> PBS
+          <li> Condor
+   </dl>
+   <p>
+
+   <dl>
+     <dt> Scripting Languages
+     <dd> <li> Perl
+   </dl>
+   <p>
+
+   </td>
+ </tr>
+ <tr>
+  <td colspan=2 align=center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+  </td>
+ </tr>
+</table>
+</center>
+
+
+</body>
+
+</html>
+
+
+

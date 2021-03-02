@@ -1,0 +1,172 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>ALARA: Installation</title>
+</head>
+
+<body>
+
+<center>
+
+<table width=750 cellpadding=5 cellspacing=0 border=0>
+ <tr valign=top>
+   <td>
+
+   <center>
+   <h1>Installing ALARA</h1>
+   </center>
+
+   <hr>
+   <!--#include virtual="bc.shtml" --> > Installation
+   <hr>
+
+   <center>Topics: <a href=#req>Requirements</a> &#183; 
+           <a href=#process>Installation Process</a> &#183; 
+	   <a href=#options>Installation Options</a> &#183; 
+	   <a href=#dirs>Installed Directory Structure</a>
+   </center>
+
+   <hr>
+
+   <h3><a name=req>Requirements</a></h3>
+
+   ALARA is written primarily in C++ with one or two FORTRAN77
+   routines. All development is done with the GNU C++ and FORTRAN
+   compilers and it has been tested and is known to work on Linux and
+   Solaris.  Installing ALARA requires both a C++ and a FORTRAN
+   compiler.
+
+   <hr>
+
+   <h3><a name=process>Inatallation Process</a></h3>
+
+   <ol>
+   <li> Obtain the distribution from the appropriate source.<p>
+
+   <li> Unpack the distribution.<p>
+        <tt>%> gunzip -c alara-<!--#include virtual="currentVerStr" -->.tar.gz | tar xf -</tt><p>
+
+   <li> Go to newly created directory.<p>
+        <tt>%> cd alara-<!--#include virtual="currentVerStr" --></tt><p>
+
+   <li>	Configure ALARA for your system<p>
+        <tt>%> ./configure</tt><p>
+	See below for options that you can give to <tt>configure</tt>.<p>
+
+   <li> Build the application<p>
+        <tt>%> make</tt><p>
+
+   <li> Install the application<p>
+        <tt>%> make install</tt><p>
+
+</ol>
+
+   <hr>
+   <h3><a name=options>Installation Options</a></h3>
+
+   The <tt>configure</tt> program provides a lot of options for
+   customizing the compilation and installation of ALARA.  To learn
+   more about the full set of options, you should check the built-in
+   help:<p>
+   <tt>%> ./configure --help</tt><p>
+
+   Some common options are listed here:
+   <dl>
+   <dt><tt>--prefix=/your/path/here</tt>
+   <dd> This option allows you to change the default location for the
+   installation of ALARA and its accompanying files.  The <a
+   href=#dirs>next section</a> describes the different files that are
+   installed and the directories in which they are installed.  More
+   control over the specific directories is also possible - see the
+   built-in help for more information.<p>
+
+   <dt><tt>CXX=name_of_your_C++_compiler</tt><br>
+       <tt>F77=name_of_your_F77_compiler</tt>
+   <dd>This option allows you to explicitly specify which C++ (or
+   FORTRAN) compiler you want to use to compile ALARA. If left out,
+   <tt>configure</tt> will search for default compilers.<p>
+
+   </dl>
+
+   <hr>
+   <h3><a name=dirs>Intalled files and directories</a></h3>
+
+   When installing ALARA, a number of files and directories are
+   installed in a number of different places.  This section summarizes
+   these directories which are all subdirectories of the "prefix"
+   directory described above.<p>
+
+   <dl>
+   <dt><strong>bindir - <tt>prefix/bin</tt></strong>
+   <dd> The following files are placed in this directory:
+        <ul>
+	<li><tt>alara</tt> - the main application
+	<li><tt>dant2alara</tt> - a utility for converting DANTSYS rtflux/atflux files to a format suitable for ALARA
+	<li><tt>summary</tt> - a Perl utility for extracting summaries of ALARA output files
+	<li><tt>extract_pathways</tt> - a Perl utility for extracting pathways from ALARA tree files
+	</ul><p>
+
+   <dt><strong>datadir - <tt>prefix/share/alara/data</tt></strong>
+   <dd>This directory contains the following machine-independent files (generally ASCII text files).
+       <ul>
+       <li> <tt><a href=datadirfiles/ANS6_4_3.txt>ANS6_4_3.txt</a></tt> - Data for implementing contact dose based on standard ANS6.4.3.
+       <li> <tt><a href=datadirfiles/IAEA.clearance.Bq_kg>IAEA.clearance.Bq_kg</a></tt> - Limits for determining the
+       material clearance rating based on IAEA standards.
+       <li> <tt><a href=datadirfiles/FetterC_hi.Ci_m3.wdr>FetterC_hi.Ci_m3.wdr</a></tt> (and
+       <tt><a href=datadirfiles/FetterC_lo.Ci_m3.wdr>FetterC_lo.Ci_m3.wdr</a></tt>) - Limits for determining the
+       waste disposal rating based on the high (and low) values
+       suggested by Fetter for each isotope.
+       <li> <tt><a
+       href=datadirfiles/NRCA.Ci_m3.wdr>NRCA.Ci_m3.wdr</a></tt> (and
+       <tt><a
+       href=datadirfiles/NRCC.Ci_m3.wdr>NRCC.Ci_m3.wdr</a></tt>) -
+       Limits for determinin the waste disposal rating based on the
+       class A (and class C) definitions provided by the U.S. Nuclear
+       Regulator Comissions.
+       <li> <tt><a href=datadirfiles/elelib.std>elelib.std</a></tt> - A file in ALARA's element library
+       format describing the standard natural isotopic abundances of
+       all elements.
+       <li> <tt><a href=datadirfiles/matlib.sample>matlib.sample</a></tt> - A file in ALARA's material
+       library format to show samples of how materials can be defined
+       and including some commong fusion materials.
+       </ul><p>
+
+   <dt><strong>xsdir - <tt>prefix/lib/alara/$OSTYPE</tt></strong>
+   <dd>This directory is created to store platform-dependent data,
+   namely binary ALARA v.2 format library files.  The name of this
+   directory is based on the environment variable <tt>$OSTYPE</tt> and
+   the full path is compiled into the <tt>alara</tt> application as a
+   default location for finding cross-section data. No files are put
+   into this directory since acquiring and installing data is a
+   separate activity.  (See the <a href=data.shtml>data guide</a> for
+   more on nuclear data.)
+
+
+       
+
+
+
+
+
+
+   </td>
+ </tr>
+ <tr>
+  <td colspan=2 align=center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+  </td>
+ </tr>
+</table>
+</center>
+
+
+</body>
+
+</html>
+
+
+

@@ -1,0 +1,66 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>ALARA: What's New!</title>
+</head>
+
+<body>
+
+<center>
+
+<table width=750 cellpadding=5 cellspacing=0 border=0>
+ <tr valign=top>
+   <td>
+
+   <center>
+   <h1>What's New with ALARA</h1>
+   </center>
+
+   <hr>
+   <!--#include virtual="bc.shtml" --> > What's New
+   <hr>
+
+   <center>Topics: <a href=#users>New Users</a> &#183; 
+           <a href=#apps>New Applications</a> &#183; 
+	   <a href=#upg>Upgrades & Bug Fixes</a> 
+   </center>
+
+   <hr>
+
+   <h3><a name=users>New Users</a></h3>
+
+   <hr>
+
+   <h3><a name=apps>New Applications</a></h3>
+
+   <hr>
+
+   <h3><a name=upg>Upgrades & Bug fixes</a></h3>
+
+   View the <a href=NEWS>NEWS</a> file distributed with code.
+
+
+
+
+
+   </td>
+ </tr>
+ <tr>
+  <td colspan=2 align=center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+  </td>
+ </tr>
+</table>
+</center>
+
+
+</body>
+
+</html>
+
+
+

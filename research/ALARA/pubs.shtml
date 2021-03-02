@@ -1,0 +1,170 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</head>
+
+<body>
+
+<center>
+
+<table width=750 cellpadding=5 cellspacing=0 border=0>
+ <tr valign=top>
+   <td>
+   <center><h1>Publications</h1></center>
+
+   <hr>
+   <!--#include virtual="bc.shtml" --> > Publications
+   <hr><p>
+
+<h3>Reviewed Publications</h3>
+<i><a href=#reps>(Jump to technical reports)</a></i>
+<p>
+
+U. Fischer, P.P.H. Wilson, D. Leichtle, <i>et al</i>, "Application of
+the IEAF-2001 Activation Data Library to Activation Analyses of the
+IFMIF High Flux Test Module", to be published in <i>J. Nuclear
+Materials</i> [presented at the 10<sup>th</sup> International
+Conference on Fusion Reactor Materials, October 14-19, 2001,
+Baden-Baden, Germany.
+<p>
+
+L. El-Guebaly, D. Henderson, A. Abdou, P. Wilson, and the ARIES Team,
+"Clearance Issues for Advanced Fusion Power Plants", to be published 
+in <i>Fusion Technology</i> [presented at the 14th Topical Meeting on the Technology of 
+Fusion Energy, October 15-19, 2000, Park City UT].
+<p>
+ 
+E.A. Mogahed, L. El-Guebaly, A. Abdou, P. Wilson, D. Henderson, and the ARIES Team,
+"Loss of Coolant Accident and Loss of Flow Accident Analysis of the ARIES-AT Design",
+to be published in <i>Fusion Technology</i> [presented at the 14th Topical Meeting on the Technology of 
+Fusion Energy, October 15-19, 2000, Park City UT]. 
+<p>
+
+D. Henderson, L. El-Guebaly, P. Wilson, A. Abdou, and the ARIES Team, "Activation, 
+Decay Heat, and Waste Disposal Analyses for the ARIES-AT Power Plant", to be published 
+in <i>Fusion Technology</i> [presented at the 14th Topical Meeting on the Technology of 
+Fusion Energy, October 15-19, 2000, Park City UT]. 
+<p>
+
+U. von M&ouml;llendorff, F. Maekawa, H. Giese, P.P.H. Wilson, "Experimental test of
+structural materials activation in the IFMIF neutron spectrum", <i>Fusion Engineering
+&amp; Design</i>, <b>51-52</b> 919 (2000)
+<p>
+
+F. Maekawa, U. von M&ouml;llendorff, P.P.H. Wilson, <i>et al.</i>, "Determination of
+Deutron-Beryllium Neutron Source Specturm by Multi-Foil Activation Technique", <i>Fusion
+Technology</i>, <b>36</b> (1999)
+<p>
+
+P.P.H. Wilson, "Activation Characterization of the High Flux Region of the International
+Fusion Materials Irradiation Facility [IFMIF]," proceedings of the 20th Symposium on
+Fusion Technology, September 1998, Marseilles, France.
+<p>
+
+Yu. A. Korovin, A.Y. Konobeyev, P.E. Pereslavtsev, P.P.H. Wilson, <i>et al.</i>, "Radiation damage
+and processes of activation and transmutation in materials irradiated by intermediate and high
+energy particles," Proceedings of the International Conference on Emerging Nuclear Energy Systems
+1998, Tel Aviv, Israel
+<p>
+
+E. Daum, P.P.H. Wilson, and A. M&ouml;slang, "Characterization of the volume for high dose
+irradiations with IFMIF," <i>J. Nuclear Materials</i>, <b>258-263</b> 421 (1998)
+<p>
+
+U. von M&ouml;llendorff, <i>et al.</i>, "Improved activation tests of fusion structural materials with a
+deuteron-beryllium neutron source,"  <i>J. Nuclear Materials</i>, <b>258-263</b> (1998)
+<p>
+
+P.P.H. Wilson, H. Tsige-Tamirat, <i>et al.</i>, "Validation of the ALARA Activation Code," <i>Fusion
+Technology</i>, <b>34</b> (1998)
+<p>
+
+P.P.H. Wilson, E. Daum, U. Fischer, <i>et al.</i>, "Neutronics Analysis of the International Fusion
+Materials Irradiation Facility High-Flux Test Volume," <i>Fusion Technology</i>, <b>33</b> 136
+(1998)
+<p>
+
+Yu. A. Korovin, A.Y. Konobeyev, V.P. Lunev, P.P.H. Wilson, <i>et al.</i>, "Evaluation and Test of
+High Energy Neutron Cross-Section Data for the IFMIF Intense Neutron ource," <u>Fusion Technology
+1996</u>, (C. Varandas and F. Serra, eds.), Elsevier, 1997, p. 1599
+<p>
+
+P.P.H. Wilson and D.L. Henderson, "Qualitative Analysis of Physical and Mathematical
+Approximations Necessary for Induced Radioactivity Calculations in Fusion
+Devices,"  <i>Fusion Engineering and Design</i>, <b>36</b> 415 (1997)
+<p>
+
+P.P.H. Wilson and D.L. Henderson, "ALARA: The Next Link in a Chain of Activation Codes," <i>Fusion
+Technology</i>, <b>30</b> 1053 (1996)
+<p>
+
+P.P.H. Wilson and D.L. Henderson, "GERAPH: A Novel Approach to the General Solution of Pulsed
+History Activation Problems," <i>Fusion Technology</i>, <b>26</b> 1092 (1994)
+<p>
+
+<a name=reps><h3>Technical Reports</h3></a>
+
+"IFMIF - International Fusion Materials Irradiation Facility. Conceptual design evaluation report. A
+supplement to the CDA by the IFMIF TEAM," A. M&ouml;slang, ed., Forschungszentrum Karlsruhe report
+FZKA6199, (January 1999)
+<p>
+
+P.P.H. Wilson, "ALARA: Analytic and Laplacian Adaptive Radioactivity Analysis," Ph.D.  Thesis,
+University of Wisconsin-Madison Fusion Technology Institute 
+<a href=http://fti.neep.wisc.edu/FTI/pdf/fdm1098.pdf>UWFDM-1098</a>, (April 1999).
+<p>
+
+P.P.H. Wilson, "IFMIF Neutronics: Development and Analysis," Dr.-Ing. Dissertation,
+Forschungszentrum Karlsruhe report <a href=http://bibliothek.fzk.de/zb/berichte/FZKA6218.pdf>FZKA6218</a>, (January 1999).
+<p>
+
+P.P.H. Wilson and D.L. Henderson, "ALARA: Analytic and Laplacian Adaptive Radioactivity Analysis,
+Volume I, Technical Manual," University of Wisconsin-Madison Fusion Technology Institute 
+<a href=http://fti.neep.wisc.edu/FTI/pdf/fdm1070.pdf>UWFDM-1070</a>, (1998)
+<p>
+
+P.P.H. Wilson and D.L. Henderson, "ALARA: Analytic and Laplacian Adaptive Radioactivity Analysis,
+Volume II, Users' Guide," University of Wisconsin-Madison Fusion Technology Institute 
+<a href=http://fti.neep.wisc.edu/FTI/pdf/fdm1071.pdf>UWFDM-1071</a>, (1998)
+<p>
+
+P. Cousseau, R. Engelstad, D.L. Henderson, P.P.H. Wilson, <i>et al.</i>, "Final Report to the
+Department of Energy Inertial Confinement Fusion Team for the Period November 1, 1993 - October 30,
+1997 on Contract No. DE-AS08-88DP10754," University of Wisconsin-Madison Fusion Technology Institute
+UWFDM-1059, (1997)
+<p>
+
+E. Daum, A. M&ouml;slang, U. von M&ouml;llendorff, P.P.H. Wilson, <i>et al.</i>, "Neutronics of the
+High Flux Test Region of the International Fusion Materials Irradiation Facility [IFMIF],"
+Forschungszentrum Karlsruhe report FZKA5868, June 1997
+<p>
+
+P. Cousseau, R. Engelstad, D.L. Henderson, P.P.H. Wilson, <i>et al.</i>, "Progress Report to the
+Department of Energy Inertial Confinement Fusion Team for the Period November 1, 1995 - September
+30, 1996 on Contract No. DE-AS08-88DP10754," University of Wisconsin-Madison Fusion Technology
+Institute UWFDM-1032, (1996)
+<p>
+
+P.P.H. Wilson and D.L. Henderson, "Expanding Towards Excellence: Ironing Out DKR's Wrinkles,"
+University of Wisconsin-Madison Fusion Technology Institute UWFDM-995 (1995)
+<p>
+
+P. Cousseau, R. Engelstad, D.L. Henderson, P.P.H. Wilson, <i>et al.</i>, "Progress Report for the
+SIRIUS Code Development Contract for the Period November 1, 1994 to November 1, 1995," University of
+Wisconsin-Madison Fusion Technology Institute UWFDM-996, (1995)
+<p>
+
+      </span>
+  </td>
+ </tr>
+</table>
+</center>
+
+
+</body>
+
+</html>
+
+
+

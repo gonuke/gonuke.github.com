@@ -1,0 +1,4 @@
+AuthName "Your CAE Login"
+AuthType Basic
+PerlAuthenHandler Apache::AuthenNIS
+require user wilsonp phruksar
