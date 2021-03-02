@@ -1,0 +1,104 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>PPHW: House</title>
+</head>
+
+<body>
+<center>
+
+<table width=750 height=22 cellpadding=5 cellspacing=0 border=0>
+ <tr valign=top>
+   <td>
+<!-- BEGIN CONTENT HERE -->
+
+<center><h1>How to find our house</h1></center>
+
+   <hr>
+   <!--#include virtual="bc.shtml" --> (Maps &amp; Directions)
+   <hr><p>
+
+<center>
+<b>3909 St. Clair St</b> 
+<p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;s=AARTsJodPhbEQyFNHMO7IO-nZI4Mw4oiZQ&amp;msa=0&amp;msid=109790560147875784472.0004607a0d0c0b71600a2&amp;ll=43.062178,-89.429226&amp;spn=0.021948,0.036478&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=109790560147875784472.0004607a0d0c0b71600a2&amp;ll=43.062178,-89.429226&amp;spn=0.021948,0.036478&amp;z=14&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+
+
+<h3>Coming from campus/downtown</h3>
+</center>
+
+<span id=highlight>By Car:</span> Take University Ave west to Randall
+Ave and turn left (South).  Veer right onto Monroe Street and continue
+for about 2 miles.  Turn right at traffic lights on Glenway. Turn left
+at the top of the hill onto Glen and then immediately (literally) turn
+right onto St. Clair St.  The house is at the end of the block on your
+left.  <b>NOTE:</b> Glen and St. Clair Streets meet in an unusual
+intersection at Glenway.
+<p>
+
+<span id=highlight>By Bus:</span> The #6 bus comes from State St, down
+Park St to Regent St, and along Speedway to Mineral Point Road.  The
+other half stop at Toepfer on Mineral Point Road - it is a short walk
+down Toepfer.  Other choices are the #7 bus on weekends, and the #3,
+#19, & #58, if you don't mind walking up the hill from Monroe st.
+
+<p>
+<span id=highlight>By Bike:</span> The <i>Southwest Bike Trail</i> is
+marked in <font color=#00dd00>green</font> on the map above.  Turn
+right when you reach Glenway and follow the driving directions above.
+
+<center><h3>Coming from the Beltline Highway</h3></center>
+
+<span id=highlight>By Car:</span> Take the Midvale Ave exit and go
+north on Midvale avenue.  Continue for about a mile.  Turn right on
+Tokay Blvd.  After the park (on your left) turn left onto Toepfer.
+Turn right onto St. Clair (second right).  The house is at the
+beginning of the block on your right.
+
+<center><h3>Coming from the West/Middleton</h3></center>
+
+<span id=highlight>By Car:</span> Take Mineral Point Rd east past
+Midvale Ave.  Turn right onto Toepfer (past Queen of Peace
+church/school and before traffic lights at Glenway).  Turn left onto
+St. Clair (6th left).  The house is at the beginning of the block on
+your right.
+<p>
+<span id=highlight>By Bus:</span> The #6 bus comes from West Towne
+Mall via the West Transfer Point on Tokay Blvd.  After the transfer
+point, it goes one on one of two routes.  The "via Tokay" route will
+stop on Toepfer where the <font color=#00aa00>green dot</font> is
+shown on the map.  The other route will stop on Mineral Point Road at
+Toepfer and it is a short walk down Toepfer to St Clair.
+
+<span id=highlight>By Bike:</span> Other than following the car
+directions above, the <i>Southwest Bike Trail</i> is shown in <font
+color=#dd00dd>magenta</font> on the map above.  Ride the trail to
+Glenway, turn left and follow the car directions in the "From
+Campus/Downtown" section above.
+
+
+
+
+
+<!-- END CONTENT HERE -->
+   </td>
+ </tr>
+ <tr>
+  <td colspan=2 align=center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+  </td>
+ </tr>
+</table>
+</center>
+</body>
+
+</html>
+
+
+

@@ -1,0 +1,49 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>PPHW: House</title>
+</head>
+
+<body>
+<center>
+
+<table width=750 height=22 cellpadding=5 cellspacing=0 border=0>
+ <tr valign=top>
+   <td>
+
+<center><h1>Welcome to our new house</h1></center>
+
+   <hr>
+   <!--#include virtual="bcHere.shtml" -->
+   <hr><p>
+
+
+Our house has now been repainted, had the floors refinished, and the kitchen remodelled.  You can still see what it looked like when we bought it <a href=old>here</a>.
+<p>
+
+Click on the House to Enter!<br>
+<center><a href=lr1.shtml><img src=/~wilsonp/images/photos/house/house1.jpg></a>
+</center>
+
+
+
+<!-- END CONTENT HERE -->
+   </td>
+ </tr>
+ <tr>
+  <td colspan=2 align=center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+  </td>
+ </tr>
+</table>
+</center>
+</body>
+
+</html>
+
+
+

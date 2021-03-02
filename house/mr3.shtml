@@ -1,0 +1,47 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>PPHW: House</title>
+</head>
+
+<body>
+<center>
+
+<table width=750 height=22 cellpadding=5 cellspacing=0 border=0>
+ <tr valign=top>
+   <td>
+<!-- BEGIN CONTENT HERE -->
+
+<center><h1>Moira's Room #3</h1>
+<p>
+<table width=100%>
+  <tr>
+    <td align=left><a href=mr2.shtml>&lt;-- Turn left</a></td>
+    <td align=center><a href=hall.shtml>Hallway</a></td>
+    <td align=right><a href=mr1.shtml>Turn right --&gt;</a></td>
+  </tr>
+</table>
+<img src=/~wilsonp/images/photos/moira/room/00004.jpg width=600>
+</center>
+<!-- END CONTENT HERE -->
+   </td>
+ </tr>
+ <tr>
+  <td colspan=2 align=center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+  </td>
+ </tr>
+</table>
+</center>
+</body>
+
+</html>
+
+
+
+
+
