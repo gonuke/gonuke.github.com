@@ -1,0 +1,44 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>The Old Town Square</title>
+</head>
+
+<body bgcolor="white">
+<a href="/~wilsonp/images/photos/travel/prague/03full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/03.jpg" border="2" align="right" WIDTH="320" HEIGHT="213"></a>
+<h1>The Old Town Square</h1>
+<hr>
+<!--#include virtual="bc.shtml" --> > Old Town Square
+<hr>
+
+
+Rivalling <a href="bridge.shtml">the Charles Bridge</a> as Prague's
+most well-known tourist attraction is <a href="astro_clock.shtml">the
+astronomical clock<img alt src="/~wilsonp/images/graphics/photoicon.gif" border="0" WIDTH="32" HEIGHT="32"></a> in the
+Old town square.  The old town square is one of the most open areas we
+saw in Prague.  In addition to a large statue in the middle of the
+square (with steps used by many to give their feet a rest), it is
+surrounded by a snapshot of the architecture seen around the rest of
+<a href="streets.shtml">Prague's streets</a>.
+<br clear="both">
+<center>
+<table border="2" cellpadding="8">
+  <tr align="center">
+    <td> <a href="/~wilsonp/images/photos/travel/prague/04full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/04.jpg" WIDTH="269" HEIGHT="293"></a><br>
+	 The Tyn Church whose spires are one of the sights of the Old
+	 Town Square.</td>
+    <td> <a href="/~wilsonp/images/photos/travel/prague/26full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/26.jpg" WIDTH="321" HEIGHT="214"></a><br>
+	 The House at Stone Bell with its ornate facade and crown of
+	 statues.</td>
+  </tr>
+</table>
+</center>
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+
+</body>

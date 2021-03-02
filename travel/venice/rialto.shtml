@@ -1,0 +1,26 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>The Rialto Bridge</title>
+</head>
+
+<body bgcolor="white">
+<center><h1>The Rialto Bridge</h1>
+<hr>
+<!--#include virtual="bc.shtml" --> > Rialto Bridge
+<hr>
+
+Of all the bridges in Venice, this is perhaps the most romantic and
+the most beautiful.
+<p>
+
+<img alt src="/~wilsonp/images/photos/travel/venice/06full.jpg" WIDTH="900" HEIGHT="588">
+</center>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>

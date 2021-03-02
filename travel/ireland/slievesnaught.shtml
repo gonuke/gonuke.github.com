@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Slieve Snaught</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Slieve Snaught</H1>
+
+<H3 ALIGN=CENTER>Co. Donegal</H3>
+
+<CENTER><P>
+<hr>
+<!--#include virtual="bc.shtml" --> > Slieve Snaught
+<hr>
+
+
+<P>This walk really included three different peaks, <A HREF="deceptheights.shtml">Damph</A>
+(~400m), Slieve Main (~500m) and Slieve Snaught (~600 m). We hiked them
+in this order and both valleys between were 100m down and 200m back up.
+The top of Slieve Snaught is covered with stones, many of which have been
+formed into Cairns by people over the ages. I like to believe that many
+of them were built by local youths who participated in a yearly pilgrimage
+to this peak as a social event until the beginning of this century.</P>
+
+<CENTER><TABLE BORDER=1 CELLPADDING=5 >
+<TR ALIGN=CENTER>
+<TD><A HREF="/~wilsonp/images/photos/travel/ireland/32full.jpg"><IMG SRC="/~wilsonp/images/photos/travel/ireland/32.jpg" HEIGHT=194 WIDTH=297></A> 
+<P>Descending to the boggy valley between<BR>
+Slieve Main and Slieve Snaught...<BR>
+preparing, for the final ascent.</P>
+</TD>
+
+<TD><A HREF="/~wilsonp/images/photos/travel/ireland/33full.jpg"><IMG SRC="/~wilsonp/images/photos/travel/ireland/33.jpg" HEIGHT=194 WIDTH=297></A> 
+<P>A view from the top of Slieve Snaught<BR>
+(600 m) including the many cairns made<BR>
+from scree in the foreground.</P>
+
+<P>This view is looking NNE<BR>
+(towards Carndonagh). The Atlantic Ocean<BR>
+was visible, but you can see how the<BR>
+view was obstructed by the haze.</P>
+</TD>
+</TR>
+</TABLE></CENTER>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

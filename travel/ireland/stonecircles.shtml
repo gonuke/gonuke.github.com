@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Stone Circles</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Stone Circles</H1>
+
+<CENTER><P ALIGN=CENTER>
+<hr>
+<!--#include virtual="bc.shtml" --> > Stone Circles
+<hr>
+
+
+<CENTER><P><IMG SRC="/~wilsonp/images/photos/travel/ireland/28full.jpg" HEIGHT=591 WIDTH=902></P></CENTER>
+
+<CENTER><P>This stone circle was found near Sligo&nbsp;Town in Co. Sligo.
+We searched for such a thing early on our trip<BR>
+while in Glengariff, but only found something about 10 ft in diameter with
+rocks that were so small<BR>
+and covered, it wasn't really clear what or who might have put them there.</P></CENTER>
+
+<CENTER><P>This circle was part of an ancient burial ground which contained
+many such &quot;megalithic&quot; structures including<BR>
+recently excavated <A HREF="passagetomb.shtml">passage tomb</A>. While many
+of the structures were either a stone circle or a partially<BR>
+burried tomb, there was one impressive example of a complete structure
+with both a large passage tomb<BR>
+and a significant stone circle. Unfortunately, we ran out of film before
+finding it.</P></CENTER>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

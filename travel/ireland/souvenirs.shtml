@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Souvenirs</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Gifts for Ourselves</H1>
+
+<CENTER><P ALIGN=CENTER>
+<hr>
+<!--#include virtual="bc.shtml" --> > Souvenirs
+<hr>
+
+
+<P>We chose this holiday to start buying gifts for ourselves, rather than
+just for other people. We started by </P>
+
+<P>We finally decided to stop buying gifts for other people and bought
+ourselves a few souvenirs from this trip. As well as two pieces of pottery:
+a tall water jug and a large flat platter, we bought a print of which any
+verbal description makes it sound pretty terrible (you will have to visit
+us some time in the future when we have it nicely framed and on the wall).
+</P>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

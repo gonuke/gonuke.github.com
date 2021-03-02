@@ -1,0 +1,40 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>The Streets of Prague</title>
+</head>
+
+<body bgcolor="white">
+<a href="shadows.shtml"><img alt src="/~wilsonp/images/photos/travel/prague/12.jpg" border="2" align="right" WIDTH="323" HEIGHT="214"></a>
+<h1>The Streets of Prague</h1>
+<hr>
+<!--#include virtual="bc.shtml" --> > Streets
+<hr>
+
+
+Being such an old and regal city, Prague is full of winding streets
+with various architectures and hidden squares around every corner.  As
+a result, Laurie and I spent much of our time exploring Prague in this
+way.
+<p>
+
+Not only were the <a href="facades.shtml">various facades<img alt src="/~wilsonp/images/graphics/photoicon.gif" border="0" WIDTH="32" HEIGHT="32"></a> themselves brightly painted and
+ornate, but many had <a href="/~wilsonp/images/photos/travel/prague/27afull.jpg">painted in-lays</a>, <a href="/~wilsonp/images/photos/travel/prague/27bfull.jpg">bas-relief panels</a> and specially carved <a href="/~wilsonp/images/photos/travel/prague/28full.jpg">window frames</a>.  <p>
+
+<a href="/~wilsonp/images/photos/travel/prague/33full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/33.jpg" align="left" WIDTH="322" HEIGHT="216"></a> The
+juxtaposition of the new and old architecture can be seen in the photo
+at the left.  The gilded roof of an old concert house (I think) is
+seen in the reflection on a modern glass-fronted building.
+
+<p> To top it all off, in addition to the normal statues and monuments
+that you find in any old city, there are <a href="statues.shtml">statues built into many of the buildings<img alt src="/~wilsonp/images/graphics/photoicon.gif" border="0" WIDTH="32" HEIGHT="32"></a>.
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+
+</body>

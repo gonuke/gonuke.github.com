@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Cavan Lifeforce Mill</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Lifeforce Mill</H1>
+
+<H3 ALIGN=CENTER>Cavan Town, Co. Cavan</H3>
+
+<CENTER><P>
+<hr>
+<!--#include virtual="bc.shtml" --> > Cavan Mill
+<hr>
+
+
+<P>The old mill in Cavan was recently bought by Lifeforce, a natural food
+producer, and restored to its original working condition. Although it was
+originally used to mill oats, because they were the local crop, it is now
+used to mill wheat for making bread. In fact, Lifeforce sells both the
+whole-meal flour and the whole-meal bread which it bakes with that flour.</P>
+
+<P>One of the attractions of the Cavan Lifeforce Mill is a bread-making
+tour. The tour starts upstairs in a big kitchen where each visitor gets
+to mix their own bread batter following a standard Irish whole-meal soda
+bread recipe. Once all the batter has been mixed, it is put in loaf pans
+and taken to the ovens. Then, while the bread bakes, the visitors get to
+tour the entire mill from where the grain is delivered, through the storage
+and drying areas, and into the milling area itself.</P>
+
+<P>Rather than a water wheel, this mill is powered by a water turbine,
+and is the oldest operating water turbine mill in Ireland. In case of low
+water flow, the back up system is a big old deisel engine. This has been
+supplemented even further with an electric back-up system which, due to
+low rainfall powers the mill most of the time. Being the geeky engineer
+that I&nbsp;am, I&nbsp;was fascinated by the mill wheels, the water trubine
+and the old deisel engine. The deisel engine was particularly interesting
+because of a laboratory course which I&nbsp;had in Toronto. This so-called
+&quot;Heat Engines&quot;&nbsp;lab was full of old heavy stationary engines
+which were originally used for factory and mill work. They were a perfect
+learning tool because they are not modified with the various bells and
+whistles of modern motors and engines. Seeing one of these installed in
+its original environment was cool.</P>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

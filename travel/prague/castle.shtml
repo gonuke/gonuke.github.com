@@ -1,0 +1,57 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>Prague Castle</title>
+</head>
+
+<body bgcolor="white">
+<a href="/~wilsonp/images/photos/travel/prague/02full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/02.jpg" align="right" WIDTH="216" HEIGHT="253"></a>
+<h1>Prague Castle</h1>
+<hr>
+<!--#include virtual="bc.shtml" --> > Castle
+<hr>
+
+
+On the west side of the river, high above the rest of the city, is
+Prague Castle.  The castle currently houses the presidential palace
+and hence the ceremonial guard.  From the walls of the castle, you can
+get a <a href="/~wilsonp/images/photos/travel/prague/10full.jpg">great view of the entire city</a>, either
+by day or night.
+<br clear="all">
+<hr>
+
+<center>
+<h3>St. Vitus' Cathedral</h3>
+The castle itself is &quot;crowned&quot; by the impressive St. Vitus' Cathedral.
+<p>
+
+<table border="2" cellpadding="8">
+  <tr align="center">
+    <td> <a href="/~wilsonp/images/photos/travel/prague/13full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/13.jpg" WIDTH="318" HEIGHT="212"></a><br>
+	 This is a sample of some of the carving which adorns<br>
+	 this 600 year long construction project!</td>
+    <td> <a href="/~wilsonp/images/photos/travel/prague/21full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/21.jpg" WIDTH="216" HEIGHT="314"></a></td>
+  </tr>
+</table>
+<p>
+
+From below, the cathedral is an obvious feature of the castle.
+<table border="2" cellpadding="8">
+  <tr align="center">
+    <td> <a href="/~wilsonp/images/photos/travel/prague/17full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/17.jpg" WIDTH="321" HEIGHT="213"></a></td>
+    <td> <a href="/~wilsonp/images/photos/travel/prague/15full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/15.jpg" WIDTH="358" HEIGHT="238"></a></td>
+  </tr>
+</table>
+
+
+
+</center>
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+
+</body>

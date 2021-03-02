@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Horseriding in the Black Valley</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Horse Riding</H1>
+
+<CENTER><P>In the Black Valley</P></CENTER>
+
+<CENTER><P>
+<hr>
+<!--#include virtual="bc.shtml" --> > Horse Riding
+<hr>
+
+
+<CENTER><P><IMG SRC="/~wilsonp/images/photos/travel/ireland/8full.jpg" HEIGHT=666 WIDTH=447></P></CENTER>
+
+<CENTER><P>Laurie and I&nbsp;upon our fearless steeds as we ride through
+<A HREF="blackvalley.shtml">the Black Valley</A>. The horses were two of
+the many<BR>
+which are available through the <A HREF="http://www.iol.ie/kerry-insight/blackvalley/index.shtml">Black
+Valley Equestrian Centre.</A></P></CENTER>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

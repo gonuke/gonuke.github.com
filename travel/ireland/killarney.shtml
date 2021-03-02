@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Killarney National Park</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Killarney National Park</H1>
+
+<H3 ALIGN=CENTER>Co. Kerry</H3>
+
+<CENTER><P><I>(Sorry, no pictures:&nbsp;lousy weather!)</I></P></CENTER>
+
+<CENTER><P>
+<hr>
+<!--#include virtual="bc.shtml" --> > Killarney
+<hr>
+
+
+<P>The drive from Killarney to Glengarrif on the N71 takes you through
+the breathtaking Killarnet National Park. This park epitomises the &quot;green-ness&quot;
+of Ireland and includes many ups and downs through the mountains of this
+region. This is also the first leg of the Ring of Kerry (assuming a clockwise
+start in Killarney). The rode wind around rocks, along lakes, up hills
+and through natural arches. Even on the foul grey and overcast day on which
+we experienced it, it was magnificent. The climax of the drive is Moll's
+Gap, which, even at only about 250 m, offers an amazing view of the valley
+which you have just traversed.</P>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

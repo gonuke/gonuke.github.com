@@ -1,0 +1,45 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>The Jewish Museum</title>
+</head>
+
+<body bgcolor="white">
+<a href="/~wilsonp/images/photos/travel/prague/19full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/19.jpg" align="right" WIDTH="323" HEIGHT="212"></a>
+<h1>The Jewish Museum of Prague</h1>
+<hr>
+<!--#include virtual="bc.shtml" --> > Jewish Museum
+<hr>
+
+<p>Finally, before leaving on Sunday morning, we toured the Jewish
+Museum, distributed amongst 4 old synagogues and the cemetery in the
+old Jewish neighborhood.  One site (The Klaus Synagogue) is about
+Judaism itself, describing various aspects of the religion using
+various antiques from the Prague neighborhoods while another site (The
+Maisel Synagogue) describes the history of the Jewish people in the
+Czech Republic, and more specifically, within Prague.  These, however,
+are not the most interesting parts!  The Pinkas Synagogue has been
+emptied completely and the walls have been painted with the names of
+every single Czech Jewish person who went missing during the Second
+World War.  Ordered first by the last known town of residence and then
+by last name, both floors of the synagogue nearly full (the top floor
+has room for any that have, for whatever reason, been missed).
+Unfortunately, I did not know enough about the my grandfather's first
+family, whose names must certainly be there, to find them in the
+lists.  The Old Cemetery is a tightly packed collection of
+gravestones, not much bigger than most people's backyards.  The
+graveyard is so small and packed that it looks like a forest of
+stones.  Finally, the &quot;Old-New Synagogue&quot; is the oldest of all the
+synagogues and was obviously intended only for the men: not only it is
+very small, with a single row of seats around the outside, there is
+absolutely no gallery, room, or separated area for women.
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+
+</body

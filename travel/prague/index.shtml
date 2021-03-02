@@ -1,0 +1,95 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</head>
+
+<body>
+
+<center>
+
+<table width=750 cellpadding=5 cellspacing=0 border=0>
+ <tr valign=top>
+   <td>
+
+<H1>
+<IMG SRC="/~wilsonp/images/photos/travel/prague/2.jpg" HEIGHT=374 WIDTH=315 ALIGN=RIGHT>Travelogue: Prague October
+23-26, 1997</H1>
+   
+   <hr>
+   <!--#include virtual="bcHere.shtml" -->
+   <hr><p>
+
+A visit to Prague by Laurie's great uncle and aunt was all the excuse
+we needed to spend a long weekend there.  Selma and Chaim spent two
+weeks there, in the middle of which we visited for 3 or 4 days.
+
+<P>It ended up being a busy weekend full of adventure, interesting people
+and intriguing places.  There is never enough time in 2 1/2 days to
+visit any city properly, and that is particularly true of Prague. 
+There are many things we missed, either because we didn't have the time
+or the weather didn't cooperate.  We hope to go back someday!
+<BR>
+<HR WIDTH="100%">
+
+<P>Although we have often taken overnight trains to reach our
+destinations, we went one step further and travelled to Prague in a
+sleeper car, rather than a simple couchette.  It made such a big
+difference not to have to share the compartment with any others and to
+have a little private sink and mirror at our disposal.  It was well
+worth the extra cost!  It meant that we arrived in Prague far more
+refreshed than our previous overnight trips.  After eventually finding
+the hotel - we had left the name and address hotel at home and spent
+about one hour in the train station toiling with currency exchange and
+phone card acquisition - we settled in to assess and contribute to <a
+href="selma_chaim.shtml">Selma and Chaim's injuries</a>.
+
+<P>Laurie and I enjoyed the magical city of Prague.  We spent a lot of
+time <a href="streets.shtml">roaming around the streets</a> on both
+sides of the river.  The winding irregular streets lined with a vast
+array of architecture and gilded statues make it as easy to spend the
+whole day exploring as it is to get lost.  Fortunately we did more of
+the former!  We saw the astronomical clock in the <a
+href="square.shtml">Old Town Square</a>, strolled around the old Jewish
+neighborhood, crossed <a href="bridge.shtml">the Charles Bridge</a>,
+and went up to <a href="castle.shtml">the Castle</a>.  While we didn't
+make it to the Opera, we did spend one evening at a black light
+theatre.  Although we enjoyed the show, we later discovered that it
+was one of many copies of the original and apparently well known
+"Laterna Magica".  If you go, I would suggest the original.  (It
+didn't help that our rather "uncouth" fellow audience members refused
+to understand either the requests not to take photos, or the idea that
+taking photos completely ruined the effect for the entire audience!)
+On Saturday night, we enjoyed an evening at home with some <a
+href="hana.shtml">acquaintences in Prague.</a> Finally, before leaving
+on Sunday morning, we toured the <a href="jew_museum.shtml">Jewish
+Museum.</a>
+
+
+<P>We spent much of the ride home sitting across from a freelance
+photo-journalist of Norwegian origin.  He was very interesting with
+all the stories and places he has seen (including having recently
+finishing a 6 month tour working with UN Forces in the middle east).
+One of the things I found the most interesting, however, was his age
+-- or should I say his youth.  He was only about the same age as us,
+or younger, something that seemed to me not to fit with a
+photo-journalist who had travelled the world.  He got his start at the
+Lillehammer Winter Olympics where he also managed to get a photo in
+Time magazine.
+
+</td></tr>
+ <tr>
+  <td colspan=2 align=center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+  </td>
+ </tr>
+</table>
+</center>
+
+
+</body>
+
+</html>

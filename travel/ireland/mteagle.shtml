@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Mt. Eagle</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Mt. Eagle</H1>
+
+<H3 ALIGN=CENTER>Dingle Peninsula 
+<hr>
+<!--#include virtual="bc.shtml" --> > Mt. Eagle
+<hr>
+
+
+<CENTER><TABLE BORDER=1 >
+<TR ALIGN=CENTER>
+<TD COLSPAN="2"><A HREF="/~wilsonp/images/photos/travel/ireland/18full.jpg"><IMG SRC="/~wilsonp/images/photos/travel/ireland/18.jpg" HEIGHT=195 WIDTH=298></A>
+
+<P>A view out to the end of the Dingle<BR>
+Peninsula from most of the way up Mt. Eagle.<BR>
+Laurie can be seen in the bottom centre.</P>
+</TD>
+</TR>
+
+<TR ALIGN=CENTER>
+<TD><A HREF="/~wilsonp/images/photos/travel/ireland/19full.jpg"><IMG SRC="/~wilsonp/images/photos/travel/ireland/19.jpg" HEIGHT=296 WIDTH=197></A> 
+<P>Down the &quot;back&quot; of<BR>
+Mt. Eagle from the ridge<BR>
+at 450 m.</P>
+</TD>
+
+<TD><A HREF="/~wilsonp/images/photos/travel/ireland/21full.jpg"><IMG SRC="/~wilsonp/images/photos/travel/ireland/21.jpg" HEIGHT=294 WIDTH=197></A>
+
+<P>Paul seeking protection<BR>
+from an &quot;umbrella&quot;-shaped<BR>
+mushroon.</P>
+</TD>
+</TR>
+</TABLE></CENTER>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

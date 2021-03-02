@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Gap of Dunloe</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>The Gap of Dunloe</H1>
+
+<H3 ALIGN=CENTER>Co. Kerry</H3>
+<hr>
+<!--#include virtual="bc.shtml" --> > Gap of Dunloe
+<hr>
+
+
+<P>The Gap on Dunloe was quite fascinating, even from the car. For others
+who might visit, I would strongly suggest walking or riding a bike (or
+horse)&nbsp;through the gap. In particular, if you approach from the North,
+arriving at Kate Kearney's Cottage, there are many options available here.
+One of the most popular options was to take a small horse-drawn buggy ride
+to the end of the Gap and walk back. Many others were riding bikes, walking,
+or riding horses.</P>
+
+<P>The road winds through this narrow valley, climbing very slowly to the
+pass at the southern end. It is an easy walk with many waterfalls, steep
+faces, and green meadows.</P>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

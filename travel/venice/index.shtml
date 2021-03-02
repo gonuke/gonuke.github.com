@@ -1,0 +1,44 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>Travelogue Venice</title>
+</head>
+
+<body bgcolor="white">
+<a href="/~wilsonp/images/photos/travel/venice/03full.jpg"><img alt src="/~wilsonp/images/photos/travel/venice/03.jpg" align="right" WIDTH="325" HEIGHT="214"></a>
+<h1>Travelogue Venice: September 11-14, 1997</h1>
+<hr>
+<!--#include virtual="bcHere.shtml" -->
+<hr>
+
+Despite Laurie having a terrible cold and only having 2 days to
+ourselves, we loved the city of Venice.  We went to Venice in
+mid-September for only a few days to help our friends celebrate their
+wedding.  We travelled there overnight arriving on Thursday morning
+and left on Sunday morning to enjoy a winding train ride through the
+Dolomites and the Brenner Pass on the way home.
+<p>
+
+Our first day was not very successful since the hotel was not ready
+for us so early in the morning.  This was not a big surprise, but it
+did become frustrating when they kept telling us to come back in an
+hour.  We desparately wanted to have a shower before starting our day,
+but would have gladly done without had they simply told us at the
+beginning that it would be 3 hours before we could get our room.  We
+did stroll around and explore the area near the hotel.
+<p>
+
+The major sight which we saw in Venice was the <a href="palace.shtml">Doge's Palace</a>, but the magic of Venice is its
+romance.  As cliché as it may sound, the romantic mood is
+really set by <a href="gondolas.shtml">the gondolas</a>, the canals, <a href="rialto.shtml">the bridges</a>, and the many well-lit side streets
+which make for romantic evening strolls.  We also spent an afternoon
+exploring Murano, the home of Venetian glass, and bought ourselves
+some crystal!
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>

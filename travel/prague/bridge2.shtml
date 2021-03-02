@@ -1,0 +1,54 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>The Charles Bridge</title>
+</head>
+
+<body bgcolor="white">
+<center><h1>The Charles Bridge</h1>
+<hr>
+<!--#include virtual="bc.shtml" --> > Charles Bridge (2)
+<hr>
+
+
+<table border="2" cellpadding="8">
+  <tr align="center">
+    <td> <a href="/~wilsonp/images/photos/travel/prague/24full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/24.jpg" WIDTH="323" HEIGHT="214"></a><br>
+	 This relatively quiet spot, looking east on the bridge, gives
+	 you an idea of all the statues lining the bridge and the
+	 bustle of people further along.</td>
+    <td> 
+	 <table>
+	   <tr>
+	     <td> <a href="/~wilsonp/images/photos/travel/prague/20full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/20.jpg" WIDTH="216" HEIGHT="314"></a></td>
+	     <td> The arch on the west side of the bridge leads to a
+		  somewhat quieter side of Prague and the Palace.</td>
+	   </tr>
+    </table></td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+	 <table>
+	   <tr>
+	     <td> <a href="/~wilsonp/images/photos/travel/prague/07full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/07.jpg" WIDTH="319" HEIGHT="215"></a></td>
+	     <td> <a href="/~wilsonp/images/photos/travel/prague/18full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/18.jpg" WIDTH="323" HEIGHT="214"></a></td>
+	   </tr>
+         </table><br>
+	 A view from the north wall of the bridge to each bank on a
+	 bright sunny day.
+	 </td>
+  </tr>
+</table>
+
+</center>
+
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+
+</body>

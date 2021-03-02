@@ -1,0 +1,50 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>The Doge's Palace</title>
+</head>
+
+<body bgcolor="white">
+<a href="/~wilsonp/images/photos/travel/venice/10full.jpg"><img alt src="/~wilsonp/images/photos/travel/venice/10.jpg" align="right" WIDTH="328" HEIGHT="216"></a>
+<h1>The Doge's Palace</h1>
+<hr>
+<!--#include virtual="bc.shtml" --> > Doge's Palace
+<hr>
+
+In the middle of Venice, on Piazza San Marco, is the Doge's Palace.
+The Doge's of Venice were a long line of people chosen to rule Venice
+and surrounding areas.  While it was not quite democracy, it also
+wasn't a hereditary system.  To make our visit more worthwhile, we
+rented little audio-guides (you key in the number of each room as you
+arrive and it tells you about what you see).  The picture at the left
+is the view from a boat on the way to Lido.
+<br clear="both">
+<table border="2" cellpadding="8" cellspacing="8">
+  <tr align="center">
+    <td> <a href="/~wilsonp/images/photos/travel/venice/04full.jpg"><img alt src="/~wilsonp/images/photos/travel/venice/04.jpg" WIDTH="216" HEIGHT="275"></a><br>
+	 A beautifully ornate marble tower above what used to be the
+	 main entrance to the palace.
+	 </td>
+    <td> <a href="/~wilsonp/images/photos/travel/venice/05full.jpg"><img alt src="/~wilsonp/images/photos/travel/venice/05.jpg" WIDTH="328" HEIGHT="214"></a><br>
+	 In the palace courtyard, there are two of these large brass
+	 wells.</td>
+  </tr>
+  <tr align="center">
+    <td> <a href="/~wilsonp/images/photos/travel/venice/09full.jpg"><img alt src="/~wilsonp/images/photos/travel/venice/09.jpg" WIDTH="329" HEIGHT="217"></a><br>
+	 Looking out of one of the balconies of the largest room in
+	 the Palace.</td>
+    <td> <a href="/~wilsonp/images/photos/travel/venice/02full.jpg"><img alt src="/~wilsonp/images/photos/travel/venice/02.jpg" WIDTH="328" HEIGHT="213"></a><br>
+	 In front of the Palace are two colums, one of them with this
+	 above it.  (The moon was really there!)</td>
+  </tr>
+</table>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+
+</body>

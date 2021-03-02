@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Deceptive Heights</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Deceptive Heights</H1>
+
+<H3 ALIGN=CENTER><A HREF="slievesnaught.shtml">Sleive Snaught</A>, Co Donegal</H3>
+
+<CENTER><P ALIGN=CENTER>
+<hr>
+<!--#include virtual="bc.shtml" --> > Deceptive Heights
+<hr>
+
+
+<CENTER><P><IMG SRC="/~wilsonp/images/photos/travel/ireland/31full.jpg" HEIGHT=586 WIDTH=896></P></CENTER>
+
+<CENTER><P>Here, at the summit (it is hardly a peak, let alone a summit)
+of Damph, you can nearly see the top of Sleive Main<BR>
+to the left and can clearly see the top of Sleive Snaught to the right.
+The saddle betwen is roughly the same<BR>
+altitude as the summit from where this photo was taken. One thing which
+we learned a lot about during our<BR>
+hikes was the deceptiveness of heights. In this case, to us, Sleive Snaught
+did not look 200 m higher than we<BR>
+were. It certainly didn't look as high as it felt once we climbed it!</P></CENTER>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

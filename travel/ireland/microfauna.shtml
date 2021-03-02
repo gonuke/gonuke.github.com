@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>The smallest wildlife</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Microfauna</H1>
+
+<CENTER><P>
+<hr>
+<!--#include virtual="bc.shtml" --> > Microfauna
+<hr>
+
+
+<CENTER><P><IMG SRC="/~wilsonp/images/photos/travel/ireland/30full.jpg" HEIGHT=1005 WIDTH=751></P></CENTER>
+
+<CENTER><P>In addition to all the birds, sheep and cows which populate
+some of the more remote<BR>
+parts of Ireland, one comes across a wide variety of interesting looking
+insects, spiders,<BR>
+snails and slugs. This brightly polka-dotted insect with big antennae was
+spotted <BR>
+(no pun intended) on the <A HREF="cliffsmoher.shtml">Cliffs of Moher</A>.
+(We'll have to get a proper lens for such<BR>
+photos before our next trip!)</P></CENTER>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

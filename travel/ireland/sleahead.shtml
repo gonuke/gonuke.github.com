@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Slea Head</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Slea Head</H1>
+
+<H3 ALIGN=CENTER>The Dingle Peninsula 
+<hr>
+<!--#include virtual="bc.shtml" --> > Slea Head
+<hr>
+
+
+<P>The picturesque Slea Head Drive goes from Dingle Town around the end
+of the Dingle Peninsula and returns to Dingle Town. On the south side of
+this drive are low cliffs and steep shores. As it goes around the end of
+the island, it nearly rings <A HREF="mteagle.shtml">Mt. Eagle</A>. Half
+way between Dunquin and Ballyferriter, there is a large pottery studio.
+When we were there, the work all showed an oriental influence. All the
+work was also very practical, from full place settings to tea/coffee services,
+matching lampshades, and a full range of accessory pieces. We were forced
+to buy a large serving platter.</P>
+
+<CENTER><TABLE BORDER=1 >
+<TR ALIGN=CENTER>
+<TD><A HREF="/~wilsonp/images/photos/travel/ireland/15full.jpg"><IMG SRC="/~wilsonp/images/photos/travel/ireland/15.jpg" HEIGHT=187 WIDTH=289></A> 
+<P>The shores of Slea Head.<BR>
+Outcroppings such as this were<BR>
+often home to ancient ring forts,<BR>
+the last line of defence for stone<BR>
+age people.</P>
+</TD>
+
+<TD ROWSPAN="2"><A HREF="/~wilsonp/images/photos/travel/ireland/16full.jpg"><IMG SRC="/~wilsonp/images/photos/travel/ireland/16.jpg" HEIGHT=293 WIDTH=197></A>
+
+<P>Another view of the steep<BR>
+shores and cliffs of Slea Head.</P>
+</TD>
+</TR>
+
+<TR ALIGN=CENTER>
+<TD><A HREF="/~wilsonp/images/photos/travel/ireland/17full.jpg"><IMG SRC="/~wilsonp/images/photos/travel/ireland/17.jpg" HEIGHT=195 WIDTH=297></A> 
+<P>An ominous and sharp rocky crag<BR>
+sticking out of the sea on Slea Head.</P>
+</TD>
+</TR>
+</TABLE></CENTER>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

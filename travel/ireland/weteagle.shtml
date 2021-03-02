@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Descending Mt Eagle with the Rain</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Coming Down with the Rain</H1>
+
+<H3 ALIGN=CENTER><A HREF="mteagle.shtml">Mt. Eagle</A>, Dingle Peninsula
+
+<hr>
+<!--#include virtual="bc.shtml" --> > Wet on Mt. Eagle
+<hr>
+
+
+<CENTER><P><IMG SRC="/~wilsonp/images/photos/travel/ireland/20full.jpg" HEIGHT=890 WIDTH=600></P></CENTER>
+
+<CENTER><P>Here is Laurie showing off her highly effective rainwear. During
+the first<BR>
+few days in Ireland, these clothes came in very handy! Unfortunately, Laurie's
+boots<BR>
+are not quite as waterproof as her jacket and pants. This was at the end
+of our<BR>
+trip up and down <A HREF="mteagle.shtml">Mount Eagle.</A></P></CENTER>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

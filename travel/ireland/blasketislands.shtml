@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Blasket Island Museum</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Blasket Island Museum</H1>
+
+<H3 ALIGN=CENTER>Dingle Peninsula</H3>
+
+<P>
+<hr>
+<!--#include virtual="bc.shtml" --> > Blasket Island
+<hr>
+
+
+<P>The Blasket Islands are 4 or 5 small islands at the end of the Dingle
+Peninsula. The largest is Great Blasket Island, which was home to a large
+population of Irish speaking people until the middle of this century. The
+Blasket Islanders had a thriving culture, and were visited by many a scholar
+to learn Irish and capture the culture. Interestingly, because of many
+years of imposed education in English, many of the Blasket Islanders were
+illiterate in their native tongue. It was only at the urging of these visiting
+foreign scholars, some from as far away as Sweden, that the islanders began
+to write in Irish. &nbsp;Since then, many famous Irish books, some autobiographical,
+have originated from the island.</P>
+
+<P>Due to the extreme weather, passage to the mainland was only possible
+on less than half the days of the year. If they were lucky, some of these
+days were Sundays so that the entire population could make the trip to
+church in Dunquin. This connection to Dunquin was also the source of new
+islanders through marriage, allowing the population to grow and survive.
+The men spent most days on the water fishing and collecting lobster traps.
+The women tended the livestock and collected the peat which was burned
+for fuel. The islanders chose a so-called &quot;King&quot;&nbsp;as their
+leader who was responsible for many decisions on the island.</P>
+
+<P>The isolation also meant that life on the island was dangerous. The
+island life was also not very attractive to the young people growing up
+on the island. The population slowly dwindled until in 1953, when there
+were no more young women in the island's community, the island was evacuated
+for the safety of its residents. The catalyst for this evacuation was the
+death of an islander who couldn't get medical attention because of bad
+weather preventing a crossing from the mainland.</P>
+
+<P>Because of the importance of the island in the history of Irish language
+literature, this museum also has lots of information about the Irish language
+itself. In addition to sculptures of various things (birds, water, clouds,
+animals) along the walls of the main corridor with their Irish name engraved
+within, there was information about the origin of the language and its
+relationship to other languages like Welsh, Gaellic, and Manx. In addition
+to all this, was a wall of televisions showing a elementary school class
+learning various vocabulary in Irish.</P>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

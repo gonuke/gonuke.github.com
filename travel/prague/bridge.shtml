@@ -1,0 +1,45 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>The Charles Bridge</title>
+</head>
+
+<body bgcolor="white">
+<a href="/~wilsonp/images/photos/travel/prague/06full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/06.jpg" align="right" WIDTH="321" HEIGHT="212"></a>
+<h1>The Charles Bridge</h1>
+<hr>
+<!--#include virtual="bc.shtml" --> > Charles Bridge
+<hr>
+
+
+One of the most famous attractions of Prague is the Charles Bridge.
+On a nice day, you can spend nearly the whole day on this bridge,
+listening the to the street performers (such as the Klezmer type
+musicians to the right), browsing the artisans tables, and watching
+the people stream back and forth.
+<p>
+
+The <a href="bridge2.shtml">bridge itself</a> is lined with statues,
+has an arch at both ends, and offers some wondeful view back towards
+the banks.  Throughout Prague you can find beautiful black and white
+photographs of a quiet version of Charles Bridge full of nothing but
+fog.  In these photos (which you will never be able to take yourself
+thanks to all the people!) the statues loom magnificently up out of
+the fog and the bridge takes on an entirely different character.
+<p>
+
+<a href="/~wilsonp/images/photos/travel/prague/29full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/29.jpg" align="left" WIDTH="322" HEIGHT="214"></a> On the
+west side of the river, I would encourage you to go down below the
+bridge where there is an entire neighborhood which appears to be less
+crowded by tourists than some of the other places in Prague.
+<p>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+
+</body>

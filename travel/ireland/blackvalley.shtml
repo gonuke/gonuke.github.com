@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Black Valley</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>The Black Valley</H1>
+
+<CENTER><P>
+<hr>
+<!--#include virtual="bc.shtml" --> > Black Valley
+<hr>
+
+
+<P>Laurie and I&nbsp;decided to skip one of our <A HREF="bestirishwalks.shtml">&quot;Best
+Irish Walks&quot;</A> in favour of a few hours <A HREF="horseback.shtml">horseback
+riding</A> through the Black Valley. Our interesting guide, Gene, gave
+us some of the history of the Black Valley. It is one of the most remote
+in Ireland, with electricity only available throughout the valley for about
+20 years. This remoteness leads to many wonderful views. While the first
+photo below was not taken from horseback, the bottom two were!</P>
+
+<CENTER><TABLE BORDER=1 >
+<TR ALIGN=CENTER>
+<TD COLSPAN="2">
+<CENTER><P><A HREF="/~wilsonp/images/photos/travel/ireland/10full.jpg"><IMG SRC="/~wilsonp/images/photos/travel/ireland/10.jpg" HEIGHT=195 WIDTH=297></A></P></CENTER>
+
+<P>A&nbsp;black cow cleans its white calf in the middle of the road.</P>
+</TD>
+</TR>
+
+<TR ALIGN=CENTER VALIGN=TOP>
+<TD>
+<CENTER><P><A HREF="/~wilsonp/images/photos/travel/ireland/11full.jpg"><IMG SRC="/~wilsonp/images/photos/travel/ireland/11.jpg" HEIGHT=294 WIDTH=197></A></P></CENTER>
+
+<CENTER><P>A waterfall in one of the hills<BR>
+of the Black Valley</P></CENTER>
+</TD>
+
+<TD>
+<CENTER><P><A HREF="/~wilsonp/images/photos/travel/ireland/12full.jpg"><IMG SRC="/~wilsonp/images/photos/travel/ireland/12.jpg" HEIGHT=292 WIDTH=197></A></P></CENTER>
+
+<CENTER><P>Across a small lake in<BR>
+the Black Valley and into<BR>
+a clouded valley.</P></CENTER>
+</TD>
+</TR>
+</TABLE></CENTER>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

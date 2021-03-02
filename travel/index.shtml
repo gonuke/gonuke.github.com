@@ -1,0 +1,112 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</head>
+
+<body>
+
+<center>
+
+<table width=750 cellpadding=5 cellspacing=0 border=0>
+ <tr valign=top>
+   <td>
+
+   <center> <h1>Travel</h1> </center>
+   
+   <hr>
+   <!--#include virtual="bcHere.shtml" -->
+   <hr><p>
+
+
+   One of our most favourite hobbies is to travel to new countries and
+   cities and explore. When we lived in Germany, we were able to
+   pursue this hobby with new vigour. In addition to our new
+   experiences in Germany itself, we have visited a number of
+   different European countries, from Spain to Austria, Ireland to
+   Italy. In some of these places, we have been lucky enough to have
+   our own personal tour guides, friends which we have met elsewhere
+   and are reunited with in their home town. In most of these places,
+   we get a very special taste of the culture directly through a
+   sampling of the food.<p>
+
+   These pages are the on-line version of the travelogues which I
+   began writing to send electronically to my family and
+   friends. Unfortunately, I started writing them before I decided to
+   put them on-line, so I don't have originals of them all. If you see
+   a destination below without a travelogue, and you are lucky enough
+   to have a copy, please send it back to me! <p>
+
+<hr WIDTH="100%">
+
+<center>
+
+<table BORDER="0" CELLSPACING="8" WIDTH="100%">
+  <tr>
+    <td align="right"><b><a href="tahoe2001/index.shtml">Donner Lake (Tahoe), <i>June 28-July 4, 2001</i></a></b><br>
+    After many years, we spend a weekend together with old friends - my Best Men and their families - near Donner
+    Lake, a slightly quieter location not far from Lake Tahoe.</td>
+    <td><a href="tahoe2001/index.shtml"><img alt src="/~wilsonp/images/photos/travel/tahoe2001/m000093.jpg" border="0" HEIGHT="145" WIDTH="220"></a></td>
+  </tr>
+  <tr>
+  <tr>
+    <td align="right" width="50%"><a HREF="prague/index.shtml"><img SRC="/~wilsonp/images/photos/travel/prague/1.jpg" NOSAVE BORDER="0" WIDTH="228" HEIGHT="141"></a></td>
+    <td width="50%"><b><a HREF="prague/index.shtml">Prague, <i>October 23-26, 1997</i></a></b> <br>
+    A long weekend in the magical city of Prague was packed full of many interesting things
+    and exciting adventures. Whether exploring the various neighborhoods, taking in the
+    nightlife, or spending an evening with a local family, we enjoyed everything that the city
+    had to offer.</td>
+  </tr>
+  <tr>
+    <td align="right"><b><a href="venice/index.shtml">Venice, <i>September 11-14, 1997</i></a></b><br>
+    Perhaps the most romantic city we have ever visited, we managed a few days of sightseeing
+    in Venice before the day-long celebration of our friends' wedding. </td>
+    <td><a href="venice/index.shtml"><img alt src="/~wilsonp/images/photos/travel/venice/06.jpg" border="0" HEIGHT="140" WIDTH="225"></a></td>
+  </tr>
+  <tr>
+    <td align="right"><a HREF="ireland/index.shtml"><img SRC="/~wilsonp/images/photos/travel/ireland/1.jpg" NOSAVE BORDER="0" WIDTH="226" HEIGHT="147"></a></td>
+    <td><b><a HREF="ireland/index.shtml">Ireland, <i>August 1-18, 1997</i></a></b> <br>
+    During this tour through much of Ireland, we experienced a wide range of what the green
+    island had to offer. The friendliness of the people lived up to its reputation and the
+    lush green hills were breathtaking, despite the wide range of weather.</td>
+  </tr>
+  <tr>
+    <td align="right"><b><a HREF="florence/index.shtml">Florence and Tuscany, <i>May 3-8, 1997</i></a></b>
+    <br>
+    During a short visit to Florence we also got to enjoy Sienna and Pisa. The highlight was a
+    walk in the nearby hills to Fiesole and all the fabulous Italian food.</td>
+    <td><a HREF="florence/index.shtml"><img SRC="/~wilsonp/images/photos/travel/florence/1.jpg" NOSAVE BORDER="0" HEIGHT="147" WIDTH="220"></a></td>
+  </tr>
+  <tr>
+    <td align=right><a href=amsterdam-zwolle/index.shtml><img src=/~wilsonp/images/photos/travel/amsterdam-zwolle/photo4s.jpg border=0></a></td>
+    <td><b><a href=amsterdam-zwolle/index.shtml>Amsterdam, <i>November,
+        1996</i></a></b><br> While this is not a complete traveloque,
+        there are some photos of a building that used to be the
+        Hotel Wijnberg, owned by Laurie's grand-parents in the middle
+        of the 20<sup>th</sup> century.</td>
+  </tr>
+</table>
+</center>
+
+
+<!-- END CONTENT HERE -->
+   </td>
+ </tr>
+ <tr>
+  <td colspan=2 align=center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+  </td>
+ </tr>
+</table>
+</center>
+
+
+</body>
+
+</html>
+
+
+

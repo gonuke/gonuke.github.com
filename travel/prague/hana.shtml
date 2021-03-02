@@ -1,0 +1,42 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>Friends in Prague</title>
+</head>
+
+<body bgcolor="white">
+<a href="/~wilsonp/images/photos/travel/prague/36full.jpg"><img alt src="/~wilsonp/images/photos/travel/prague/36.jpg" align="right" WIDTH="318" HEIGHT="217"></a>
+<h1>Friends in Prague</h1>
+<hr>
+<!--#include virtual="bc.shtml" --> > Friends
+<hr>
+
+
+When he lived in Czechoslovakia, my grandfather had a good friend
+whose son and wife now live in Prague.  The Green clan has been
+continuing this friendship to the next generation: my cousin and
+sister visited two years ago and my aunt and uncle just before that.
+We went there for dinner and had a wonderful evening.  Although only
+Hana spoke english, Lubos could understand enough to follow the
+conversation.  The most interesting food of our trip was that evening:
+blueberry filled dumplings with blueberry yogurt on top -- sweet and
+heavy and DELICIOUS!  Hana then took us on a late night tour of
+Prague, along the river and up behind/above the castle.
+
+<p>We met Hana on <a href="/~wilsonp/images/photos/travel/prague/23full.jpg">Wenceslas Square<img alt src="/~wilsonp/images/graphics/photoicon.gif" border="0" WIDTH="32" HEIGHT="32"></a>, just in front of the National
+Museum of the Czech republic, under the <a href="/~wilsonp/images/photos/travel/prague/22full.jpg">statue of
+Wenceslas<img alt src="/~wilsonp/images/graphics/photoicon.gif" border="0" WIDTH="32" HEIGHT="32"></a> himself.  The
+long square (more like a wide avenue with grass boulevard) slopes down
+away from the Museum towards the middle of town.  It was awesome to
+stand at the top look down and imagine the whole square full of people
+as it was during the recent revolution.
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+
+</body>

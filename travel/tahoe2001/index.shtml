@@ -1,0 +1,100 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</head>
+
+<body>
+
+<center>
+
+<table width=750 cellpadding=5 cellspacing=0 border=0>
+ <tr valign=top>
+   <td>
+
+<H1>
+<a href=/~wilsonp/images/photos/travel/tahoe2001/000092.jpg>
+<IMG SRC="/~wilsonp/images/photos/travel/tahoe2001/m000092.jpg" ALIGN=RIGHT border=0></a>
+Mini-Travelogue: Donner Lake, June 28-July 4, 2001</H1>
+   
+   <hr>
+   <!--#include virtual="bcHere.shtml" -->
+   <hr><p>
+
+
+After many years, I decided to arrange a weekend together with some of 
+my best friends from my days as an undergradudate in Toronto.  After some
+prompting from me, Duncan took hold of the reins and we ended up spending
+a mix of days together in a rented house near Donner Lake, CA.  With a
+vast array of arrival and departure dates, we did have nearly 2 days with
+all the following present: Duncan & Julie with their daughter Claire, 
+Stephen and Dina, Ian and Kathleen, and Laurie, Moira and I.
+<p>
+
+Since we spent most of our time just hanging out and reacquainting ourselves
+there is not much to write about.  This is really just a placeholder for
+the following photos.  Duncan also has 
+<a href=http://snow.stanford.edu/~dstewart/family/Photos070301/index.htm>some
+photos online</a>.
+<p>
+
+<center>
+<table>
+  <tr>
+   <td colspan=3 align=center><hr><br>
+      Here are some pictures of us all just hanging out and doing not much of anything. </td>
+  </tr>
+  <tr align=center>
+   <td><a href=/~wilsonp/images/photos/travel/tahoe2001/000088.jpg>
+       <img src=/~wilsonp/images/photos/travel/tahoe2001/s000088.jpg border=0></a></td>
+   <td><a href=/~wilsonp/images/photos/travel/tahoe2001/000089.jpg>
+       <img src=/~wilsonp/images/photos/travel/tahoe2001/s000089.jpg border=0></a></td>
+   <td><a href=/~wilsonp/images/photos/travel/tahoe2001/000090.jpg>
+       <img src=/~wilsonp/images/photos/travel/tahoe2001/s000090.jpg border=0></a></td>
+  </tr>
+  <tr>
+    <td colspan=3 align=center><hr><br>
+       We did manage part of a hike one day, cut short primarily by my inability to
+       go farther with a baby on my back and the baby's own lack of desire to continue.</td>
+  </tr>
+  <tr align=center>
+   <td><a href=/~wilsonp/images/photos/travel/tahoe2001/000091.jpg>
+       <img src=/~wilsonp/images/photos/travel/tahoe2001/s000091.jpg border=0></a><br>
+       <a href=/~wilsonp/images/photos/travel/tahoe2001/l000091.jpg>
+       (hi-res: 1.1MB)</a></td>
+   <td><a href=/~wilsonp/images/photos/travel/tahoe2001/000092.jpg>
+       <img src=/~wilsonp/images/photos/travel/tahoe2001/s000092.jpg border=0></a><br>
+       <a href=/~wilsonp/images/photos/travel/tahoe2001/l000092.jpg>
+       (hi-res: 1.1MB)</a></td>
+   <td><a href=/~wilsonp/images/photos/travel/tahoe2001/000093.jpg>
+       <img src=/~wilsonp/images/photos/travel/tahoe2001/s000093.jpg border=0></a></td>
+  </tr>
+  <tr>
+    <td colspan=3 align=center>
+       This panoramic shot was composed from three digital photos using Arcsoft's
+       Panorama Maker 2000 software that came with my camera.  This was my first
+       time using it and I am quite impressed!<br>
+       <img src=/~wilsonp/images/photos/travel/tahoe2001/tahoePanorama_th.JPG><br>
+       <a href=/~wilsonp/images/photos/travel/tahoe2001/tahoePanorama.JPG>3400x1200 (1.2MB)</a>
+       <a href=/~wilsonp/images/photos/travel/tahoe2001/tahoePanorama_m.JPG>1600x571 (367kB)</a>
+       <a href=/~wilsonp/images/photos/travel/tahoe2001/tahoePanorama_s.JPG>1200x428 (215kB)</a>
+<br>
+  </tr>
+</table>
+</center>
+</tr>
+ <tr>
+  <td colspan=2 align=center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+  </td>
+ </tr>
+</table>
+</center>
+
+
+</body>
+
+</html>

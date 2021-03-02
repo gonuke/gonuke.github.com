@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Connemara</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Connemara National Park
+<hr>
+<!--#include virtual="bc.shtml" --> > Connemara
+<hr>
+
+
+<CENTER><P ALIGN=CENTER><IMG SRC="/~wilsonp/images/photos/travel/ireland/26full.jpg" HEIGHT=588 WIDTH=900></P></CENTER>
+
+<CENTER><P>Here we cross the bogs in the direction of Mt. Diamond hidden
+in the clouds. While it may appear<BR>
+to be a nice thickly carpeted meadow, this field is actually a soft sponge-like
+peat bog, and with every<BR>
+step comes the risk of a filthy wet foot!</P></CENTER>
+
+<CENTER><P>Connemara National Park has a lot to offer any visitor. As it
+happens, about 40 other French and Italian<BR>
+tourists knew this. There is a small museum which includes information
+about the physical and human<BR>
+history of the bogs. In addition, there are interpretive walks, A/V&nbsp;presentations,
+and interesting talks about<BR>
+a variety of topics, including the Connemara ponies. These horses first
+arrived in the area following a<BR>
+Spanish shipwreck of Ireland's West coast, and have developed into their
+own breed. Gene, our<BR>
+<A HREF="horseback.shtml">horseback guide</A>, has one purebred Connemara
+which he is hoping to breed and use in <A HREF="http://www.iol.ie/kerry-insight/blackvalley/index.shtml">his
+riding<BR>
+business</A>.</P></CENTER>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Photo 1</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Inistioge</H1>
+
+<H3 ALIGN=CENTER>Co. Kilkenny</H3>
+
+<hr>
+<!--#include virtual="bc.shtml" --> > Inistioge
+<hr>
+
+
+<CENTER><P><IMG SRC="/~wilsonp/images/photos/travel/ireland/1full.jpg" HEIGHT=588 WIDTH=902></P></CENTER>
+
+<CENTER><P>This somewhat idyllic photograph of the green hills of Ireland
+was taken on our first night there. Just above<BR>
+the village of Inistioge (SE&nbsp;of Kilkenny), there is the old stone
+bridge across the River Nore and also the<BR>
+well-located houses and pastures on the opposite hill.</P></CENTER>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>

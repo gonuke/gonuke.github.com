@@ -1,0 +1,49 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>Gondolas</title>
+</head>
+
+<body bgcolor="white">
+<center><h1>Gondolas in Venice</h1>
+<hr>
+<!--#include virtual="bc.shtml" --> > Gondolas
+<hr>
+
+The gondolas are not just for the tourists!  In addition to the
+exorbitantly priced romantic gondola rides (we inquired, but did not
+indulge), there are a few places bewteen the bridges where gondolas
+are used routinely to cross back and forth across the main canal.
+
+<table border="5" cellspacing="8" cellpadding="8">
+  <tr align="center">
+    <td rowspan="2">
+	 <table>
+	   <tr>
+	     <td> <a href="/~wilsonp/images/photos/travel/venice/01full.jpg"><img alt src="/~wilsonp/images/photos/travel/venice/01.jpg" WIDTH="211" HEIGHT="314"></a></td>
+	     <td>This gondola has just passed under the &quot;Bridge of
+		  Sighs&quot;, part of the Doge's Palace across which
+		  Cassanova walked into the hands of Inquisitors.</td>
+	   </tr>
+    </table>
+	 </td>
+    <td> <a href="/~wilsonp/images/photos/travel/venice/07full.jpg"><img alt src="/~wilsonp/images/photos/travel/venice/07.jpg" WIDTH="327" HEIGHT="214"></a><br>
+	 Arriving at the town hall for a wedding.</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="/~wilsonp/images/photos/travel/venice/03full.jpg"><img alt src="/~wilsonp/images/photos/travel/venice/03.jpg" WIDTH="325" HEIGHT="214"></a><br>
+	 A hoard of gondolas waiting at Piazza San Marco for rich or
+	 gullable tourists.</td>
+  </tr>
+</table>
+
+</center>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</body>

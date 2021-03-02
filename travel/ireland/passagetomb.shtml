@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Passage Tomb</TITLE>
+   <META NAME="Author" CONTENT="Paul P.H. Wilson">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win95; I) [Netscape]">
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Passage Tomb</H1>
+
+<CENTER><P ALIGN=CENTER>
+<hr>
+<!--#include virtual="bc.shtml" --> > Passage Tomb
+<hr>
+
+
+<CENTER><P><IMG SRC="/~wilsonp/images/photos/travel/ireland/27full.jpg" HEIGHT=590 WIDTH=902></P></CENTER>
+
+<CENTER><P>This passage tomb was recently excavated. Although not clear
+here, the width of <BR>
+the top stone is roughly 4 ft. Many other such tombs, some surrounded by
+<A HREF="stonecircles.shtml">stone circles</A> were found<BR>
+at this same site, Carrowmore, near Sligo Town in Northwest Ireland (Co.
+Sligo).</P></CENTER>
+
+<CENTER><P>No-one is absolutely clear about how and why such tombs were
+built. It is clear that not everyone<BR>
+got such a tomb. In the case of this ancient graveyard, this tomb was believed
+to be the most important,<BR>
+both because of its location&nbsp;(it was centrally located on the highest
+part of the area) and the fact that<BR>
+most, if not all, of the other tombs' opennings pointed to this tomb.</P></CENTER>
+
+<center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.shtml" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+</center>
+</BODY>
+</HTML>
