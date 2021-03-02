@@ -1,0 +1,51 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</head>
+
+<body>
+
+<center>
+
+<table width=750 cellpadding=5 cellspacing=0 border=0>
+ <tr valign=top>
+   <td>
+
+   <center><h1>Service &amp; Outreach</h1></center>
+
+   <hr>
+   <!--#include virtual="bcHere.shtml" -->
+   <hr><p>
+
+
+   <table width=100%>
+   <tr align=center>
+   <td width=50%>&#183; <a href=/~ans>UW-Madison ANS Student Section</a></td>
+   <td width=50%>&#183; <a href=http://www.na-ygn.org>NA-YGN</a></td>
+   </tr>
+   <tr align=center>
+   <td>&#183; <a href=http://committees.ans.org/students>ANS Student Sections Committee</a></td>
+   </tr>
+   </table>
+
+   </td>
+ </tr>
+ <tr>
+  <td colspan=2 align=center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+  </td>
+ </tr>
+</table>
+</center>
+
+
+</body>
+
+</html>
+
+
+

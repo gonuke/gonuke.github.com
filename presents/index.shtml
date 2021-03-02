@@ -1,0 +1,120 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>Seminars & Presentations</title>
+</head>
+
+<body>
+
+<center>
+
+<table width=750 cellpadding=5 cellspacing=0 border=0>
+ <tr valign=top>
+   <td>
+
+   <center><h1>Seminars &amp; Presentations</h1></center>
+
+
+   <hr>
+   <!--#include virtual="bcHere.shtml" -->
+   <hr><p>
+
+<center>
+<a href=#sem><span id=title>Seminar Presentations</span></a> &#183;
+<a href=#conf><span id=title>Conference Presentations</span></a>
+</center>
+
+<a name=sem><h1>Seminar Presentations</h1></a>
+
+<i>Isotopic Inventory Calculations in the 21<sup>st</sup> Century:
+ALARA and Beyond</i>, Los Alamos National Laborator, July 2002.  [<a
+href=LANL_Jul02.pdf>PDF: 1.5MB</a>]
+<p>
+
+<i>Isotopic Inventory Calculations in the 21<sup>st</sup> Century:
+ALARA and Beyond</i>, Department of Nuclear, Plasma and Radiological
+Engineering, University of Illinois at Urbana-Champaign, March
+2002.
+<p>
+
+<i>Addressing Global Climate Change: A Role for Nuclear Power</i>, Center for Sustainability and the Global Environment (SAGE), Sustainability Studies: Linking Natural Science, Social Science, and Practice Seminar Series, February 2002.
+<p>
+
+<i>Isotopic Inventory Calculations in the 21<sup>st</sup> Century:
+ALARA and Beyond</i>, Institute for Reactor Safety, Karlsruhe Research
+Center, Germany, January 2002.
+<p>
+
+<i>The Nuclear Industry at COP5: An Introduction to Climate Change Politics and the Role of Nuclear Power</i>, Engineering Physics Department Colloquium, February 2000
+<p>
+
+<i>Code Development and Neutronics Analyses for the International Fusion Materials
+Irradiation Facility [IFMIF]</i>, INR Colloquium, November 1998
+<p>
+
+<i>Performance Characterization of the IFMIF High Flux Test Region for Application to Fusion
+Materials Development</i>, INR Colloquium, November 1997
+<p>
+
+<i>Data and Program Development for the Neutronics Analyses of the IFMIF Neutron
+Source</i>,  INR Colloquium, November 1997
+<p>
+
+<hr>
+
+<a name=conf><h1>Conference Presentations</h1></a>
+
+<i>Nuclear Science &amp; Technology: Sustainable Solutions to the Climate Change Problem</i>, UNFCCC 5<sup>th</sup> Conference of the Parties (COP5), Bonn, Germany, November 1999
+<p>
+
+<i>Carrying the Atomic Torch in to the Next Millennium</i>, Plenary Session, ANS Annual
+Meeting, Boston, MA, June 1999
+<p>
+
+<i>The Young Generation - The ENS Experience and Progress in North America</i>, Panelist,
+ANS Annual Meeting, Boston, MA, June 1999
+<p>
+
+<i>Validation of the ALARA Activation Code</i>, 13<sup>th</sup> ANS
+Topical Meeting on the Technology of Fusion Energy, Nashville, TN,
+June 1998
+<p>
+
+<i>Neutronics Analysis of the International Fusion Materials
+Irradiation Facility High Flux Test Volume</i>, Nuclear Applications
+of Accelerator Technology Topical Meeting, Albuquerque, NM, November
+1997
+<p>
+
+<i>ALARA: The Next Link in a Chain of Activation Codes</i>,
+12<sup>th</sup> ANS Topical Meeting on the Technology of Fusion
+Energy, Reno, NV June 1996
+<p>
+
+<i>GERAPH: A Novel Approach to the General Solution of Pulsed History
+Activation Problems</i>, 11<sup>th</sup> ANS Topical Meeting on the
+Technology of Fusion Energy, New Orleans, LA June 1994
+<p>
+
+
+   </td>
+ </tr>
+ <tr>
+  <td colspan=2 align=center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+  </td>
+ </tr>
+</table>
+</center>
+
+
+</body>
+
+</html>
+
+
+
