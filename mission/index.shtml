@@ -1,0 +1,80 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+<title>PPHW: Mission & Vision</title>
+</head>
+
+<body>
+<center>
+
+<table width=750 height=22 cellpadding=5 cellspacing=0 border=0>
+ <tr valign=top>
+   <td>
+
+   <center><h1>My Mission and My Vision</h1></center>
+
+   <hr>
+   <!--#include virtual="bcHere.shtml" -->
+   <hr><p>
+
+   <h3>Mission</h3>
+   <b>To contribute to the joy and improvement of all those around me.</b>
+
+   <h3>Vision</h3>
+   <b>I am joyful with where I am in life while still working to
+   increase and share that joy.  I display an obvious comittment and
+   sense of integrity in both my teaching and research.  I always act
+   with compassion towards others.</b>
+
+   <p><hr><p>
+
+<span id=highlight>Background</span><p>
+
+In June 2001, I attended a career skills workshop that focused on
+goal setting and achieving balance in one's life.  The presenters,
+Dr. Carolyn Hines and Mr. William Hines, Jr, encouraged us to each
+develop a personal vision and mission statement and then use these
+to guide our goal setting.  Additionally, they introduced the
+"Wheel of Life" concept in order to help us measure the balance
+in our lives and then focus our goal setting on achieving that
+balance.
+<p>
+
+My personal vision and mission statement developed out of a few core
+values combined with my definition of success.  Those core values are
+<b><i>integrity, selflessness, comittment, joy,</i></b> and 
+<b><i>compassion</i></b>.  In addition, to me, a successful person is
+one who is continually improving themselves and their contribution to
+society - although I am pretty open to what form that contribution
+takes.
+<p>
+
+Two of these core values are represented in the <a
+href=obligation.shtml>Obligation</a> that I took upon accpeting my <a
+href=http://www.ironring.ca>Iron Ring</a> in Canada.
+
+
+
+
+
+
+<!-- END CONTENT HERE -->
+   </td>
+ </tr>
+ <tr>
+  <td colspan=2 align=center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+  </td>
+ </tr>
+</table>
+</center>
+</body>
+
+</html>
+
+
+
