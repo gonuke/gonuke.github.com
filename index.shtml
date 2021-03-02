@@ -1,0 +1,73 @@
+<html>
+<head>
+<link rel="stylesheet" href="/~wilsonp/util/css/base.css">
+<link rel="stylesheet" href=local.css>
+</head>
+
+<body>
+
+<center>
+
+<table width=750 cellpadding=5 cellspacing=0 border=0>
+ <tr valign=top>
+   <td>
+
+   <center> <h1>Personal</h1> </center>
+   
+   <hr>
+   <!--#include virtual="bcHere.shtml" -->
+   <hr><p>
+
+   <h3><a href=travel>Travel</a></h3>
+
+   One of our most favourite hobbies is to travel to new countries and
+   cities and explore. When we lived in Germany, we were able to
+   pursue this hobby with new vigour. In addition to our new
+   experiences in Germany itself, we have visited a number of
+   different European countries, from Spain to Austria, Ireland to
+   Italy. In some of these places, we have been lucky enough to have
+   our own personal tour guides, friends which we have met elsewhere
+   and are reunited with in their home town. In most of these places,
+   we get a very special taste of the culture directly through a
+   sampling of the food.
+   <p>
+
+   These pages are the on-line version of the travelogues which I
+   began writing to send electronically to my family and
+   friends. Unfortunately, I started writing them before I decided to
+   put them on-line, so I don't have originals of them all. If you see
+   a destination below without a travelogue, and you are lucky enough
+   to have a copy, please send it back to me!
+   <center>
+   <a href=travel/tahoe2001>Donner Lake (Tahoe)</a> &#183;
+   <a href=travel/prague>Prague</a> &#183; 
+   <a href=travel/venice>Venice</a> &#183;
+   <a href=travel/ireland>Ireland</a> &#183;
+   <a href=travel/florence>Florence</a> &#183;
+   <a href=travel/amsterdam-zwolle>Amsterdam</a>
+   </center>
+   <p>
+
+   <hr>
+   <center><h3><a href=mission>Mission &amp; Vision</a> &nbsp; &#183; &nbsp;<a href=house>House</a></h3></center>
+
+   </td>
+ </tr>
+ <tr>
+  <td colspan=2 align=center>
+      <span id=footer>
+      <!--#include virtual="/~wilsonp/util/tmpl/footer.html" -->
+      <!--#echo var="LAST_MODIFIED" -->
+      </span>
+  </td>
+ </tr>
+</table>
+</center>
+
+
+</body>
+
+</html>
+
+
+
